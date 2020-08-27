@@ -1,2 +1,2 @@
 # javascript-challenge
-combined challenge 1 and 2 so filter by any combination
+combined challenge 1 and 2 so filter by any combination on the html page.
